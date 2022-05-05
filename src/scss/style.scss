@@ -1,0 +1,17 @@
+// importing font awesome
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+//@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+
+
+
+
+
+
+$test-color: #ffcc33 !default;
+
+
+h1 {
+  color: $test-color;
+}
