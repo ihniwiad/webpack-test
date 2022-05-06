@@ -1,5 +1,5 @@
-import './js/test.js';
-import './scss/style.scss';
+import './test.js';
+// import './scss/style.scss';
 
 
 let add = (a,b) => {
